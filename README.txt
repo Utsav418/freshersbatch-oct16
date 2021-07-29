@@ -4,10 +4,7 @@ Various command of git has been used to get some insights about it
 
 HTML Assignments is assigned to Utsav he is working on it
 
-<<<<<<< HEAD
 CSS Assignment is assigned to Aman he is working on it
-=======
->>>>>>> css-assignments
 HTML Assignments are in progress
 
 HTML Assignments Completed
