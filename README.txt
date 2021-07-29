@@ -9,3 +9,5 @@ HTML Assignments are in progress
 HTML Assignments Completed
 
 CSS Assignments are in progress
+
+CSS Assignment is completed
