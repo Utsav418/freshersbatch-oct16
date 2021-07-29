@@ -15,3 +15,7 @@ HTML Assignments Completed
 CSS Assignments are in progress
 
 CSS Assignment is completed
+
+JS Assignment is in progress
+
+JS Assignment is completed
